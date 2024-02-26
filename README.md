@@ -2,7 +2,8 @@
 
 ## Marek Zelinka
 
-## Struktura HTML stránky:
+
+##Struktura HTML stránky:
 
 <!DOCTYPE html> definuje verzi HTML, kterou dokument používá (v tomto případě HTML5).
 <html lang="en"> označuje začátek HTML dokumentu s deklarací jazyka (v tomto případě angličtina).
