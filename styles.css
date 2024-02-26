@@ -16,9 +16,10 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h2 {
-    text-align: center;
+.Fufan {
     color: #333;
+    margin-bottom: 0;  
+    text-align: center;
 }
 
 form {
@@ -62,5 +63,9 @@ input[type="submit"]:hover {
 h3 {
     text-align: center;
     color: #333;
-    margin-top: 
+    margin-top: 10vh; 
+}
+
+body {
+    box-sizing: border-box;
 }
