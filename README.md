@@ -19,3 +19,6 @@ V <head> části jsou definovány meta informace, jako kódování znaků (<meta
 <form method="post" action=""> definuje formulář, který bude odesílat data pomocí metody POST na stejnou stránku (action="").
 Vstupní pole pro první číslo (<input type="number" name="num1" required>), operátor (<select name="operator" required>...</select>), a druhé číslo (<input type="number" name="num2" required>) jsou vloženy do formuláře.
 Tlačítko pro odeslání formuláře (<input type="submit" name="calculate" value="Calculate">) spustí odeslání formuláře.
+
+
+## kalklulackaaa.great-site.net
